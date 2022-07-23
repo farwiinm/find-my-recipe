@@ -1,3 +1,9 @@
+#find-my-recipe
+
+This is a simple react application that allows you to search up a food item and results in many recipes, taken directly off a free, open source API
+
+![image](https://user-images.githubusercontent.com/85069153/180584532-09705472-c163-4b5f-b778-0491dbd850fb.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
