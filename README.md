@@ -1,4 +1,4 @@
-#find-my-recipe
+# find-my-recipe
 
 This is a simple react application that allows you to search up a food item and results in many recipes, taken directly off a free, open source API
 
